@@ -1,0 +1,15 @@
+akash.png-206 keypoints found. 
+
+akash90.png- 199 keypoints found.
+
+akash180.png-204 keypoints found. 
+
+akash270.png-203 keypoints found. 
+
+match('akash.png','akash.png');    Found 206 matches.
+
+match('akash.png','akash90.png');  Found 189 matches.
+
+match('akash.png','akash180.png');  Found 187 matches.
+
+match('akash.png','akash270.png');  Found 190 matches.
