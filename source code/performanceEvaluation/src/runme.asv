@@ -1,0 +1,21 @@
+A=importdata('input2.txt');
+
+x=[];
+y=[];
+
+for j=1:80
+    x(end + 1)=A(j,j);
+end
+
+for i=1:80
+   for j=1:80
+     if i ~= j
+       y(end + 1)=A(i,j);
+     end
+   end
+end
+
+g=x';
+im=y';
+
+EER_DET_conf(g,im,0,10000)

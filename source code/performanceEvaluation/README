@@ -1,0 +1,40 @@
+###########################################################
+################# PERFORMANCE EVALUATION ##################
+########################## OF A ###########################
+############## BIOMETRIC VERIFICATION SYSTEM ##############
+###########################################################
+#################### BioSecure Tool #######################
+###########################################################
+###########################################################
+######### first official version 1.0 - 01/12/2007 #########
+###########################################################
+
+What can you find here?
+-----------------------
+
+- the BioSecure tool used to evaluate the performance of 
+a biometric verification system.
+- a documentation which explains how to use the tool.
+
+
+First step
+----------
+
+To begin, I advise you to read the document stored in 
+/doc directory.
+
+
+Short description of each directory
+-----------------------------------
+
+- doc: documentation which explains how to use the tool.
+
+- src: source code.
+
+
+Questions
+---------
+
+If you have questions about the use of the tool, you can 
+contact the next person:
+Aurelien Mayoue: aurelien.mayoue@int-evry.fr
